@@ -1,0 +1,5 @@
+{
+       "parent": "item/generated",
+       "textures": {
+            "Layer0": "testmod:items/ingot_test"
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "testmod",
+  "name": "test mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["troy"],
+  "credits": "troy",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
